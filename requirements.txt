@@ -7,3 +7,6 @@ django-filter
 dj-rest-auth
 djangorestframework-simplejwt
 python-decouple
+beautifulsoup4
+requests
+lxml
